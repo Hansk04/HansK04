@@ -1,5 +1,8 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - cv.pdf
 
 website:
   title: "HansK04"
@@ -7,7 +10,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: HAHA
+      - href: pres.qmd
+        text: Presentations
+    right: 
+      - text: CV
+        href: cv.pdf
 
 format:
   html:
@@ -19,4 +28,3 @@ format:
 
 execute:
   freeze: auto
-

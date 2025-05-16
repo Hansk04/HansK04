@@ -1,0 +1,15 @@
+{
+  "hash": "e2a370fb74d61322c463f89527f9bcae",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Presentations\"\n---\n\n\n\n\n\nAbout this site\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\n## Hello \n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlorem::ipsum(3)\n```\n\n::: {.cell-output-display}\nLorem pharetra bibendum cubilia natoque massa scelerisque ac ante senectus. Sollicitudin fermentum class, sociis cum purus aliquet vivamus vitae himenaeos. Ante iaculis netus primis mus, litora curabitur sociis integer, sociosqu potenti mattis sem dis?\n\nAmet ultrices erat, mauris aenean pretium condimentum primis pulvinar placerat mi fringilla. Magnis accumsan turpis quam molestie lectus pretium tincidunt et sed: commodo pretium! Euismod sollicitudin luctus ac massa curabitur – netus scelerisque ultrices varius. Magna mattis montes eros ornare sapien, cursus lectus mollis etiam tortor nostra? Ac fames magna fames ullamcorper elementum ultricies hendrerit, urna justo torquent. Sapien et sollicitudin netus sodales, parturient: varius urna ad porta augue commodo sollicitudin? Quam senectus penatibus odio sagittis varius consequat nisl leo. Na leo.\n\nLorem etiam nec imperdiet fringilla praesent pellentesque ridiculus diam congue malesuada! Mattis tempor rhoncus nunc dignissim hac; pellentesque iaculis; cursus neque penatibus. Luctus interdum hac curabitur etiam sodales eleifend: montes, etiam penatibus aptent fermentum.\n:::\n:::\n\n\n\n\n\n### This is a subheader\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
