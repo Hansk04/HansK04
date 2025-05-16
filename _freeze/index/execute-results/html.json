@@ -1,8 +1,8 @@
 {
-  "hash": "71fc11dc0b0124b90ac4fca3749d078d",
+  "hash": "d8bdbb12736b2fb345bf8b9fbe6dad66",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Hans Kuthy\"\nabout:\n  template: jolla\n  image: images/pic1.jpeg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - text: CV\n      href: \"cv.pdf\"\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Hans Kuthy\"\nabout:\n  template: jolla\n  image: images/pic1.jpeg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com\n    - icon: github\n      text: Github\n      href: https://github.com\n    - text: KK\n      href: \"cv.pdf\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

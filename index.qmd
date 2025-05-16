@@ -10,7 +10,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-    - text: CV
+    - text: KK
       href: "cv.pdf"
 ---
 
