@@ -1,5 +1,17 @@
 ---
-title: "HansK04"
+title: "Hans Kuthy"
+about:
+  template: jolla
+  image: images/pic1.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: cv
+      file: "cv.pdf"
 ---
 
 This is a Quarto website.
