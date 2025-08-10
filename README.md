@@ -19,7 +19,7 @@ Currently growing my skills in ML, NLP, and Data Visualization
 3. **Built Different** - Ranking the world's toughest sports through data-driven analysis  
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansk04&show_icons=true&theme=merko)](https://github.com/Hansk04)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansk04&show_icons=true&theme=chartreuse-dark)](https://github.com/Hansk04)
 
 ## Reach Out!
 
