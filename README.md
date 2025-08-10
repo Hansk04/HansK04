@@ -2,7 +2,7 @@
 
  **Data Science Major** @ Northwestern University  
 Currently growing my skills in ML, NLP, and Data Visualization  
-
+🌐 **[Explore My Digital Portfolio](https://hanskuhthy.com)** <a href="https://hanskuthy.com">
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,5 +27,5 @@ Currently growing my skills in ML, NLP, and Data Visualization
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanskuthy33@gmail.com)
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Hansk04&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
+  <img src="https://komarev.com/ghpvc/?username=Hansk04&label=Profile%20views&color=0e75b6&style=flat" alt="Hansk04" /> 
 </p>
