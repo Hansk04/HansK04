@@ -3,7 +3,10 @@
 **Data Science Major** @ Northwestern University  
 Currently growing my skills in ML, NLP, and Data Visualization  
 🌐 **[Explore My Digital Portfolio](https://hanskuthy.com)**  
-📍🇺🇸|🇲🇺
+<span style="display:inline-block;background:#f4f4f4;padding:6px 10px;border-radius:12px;font-size:14px;font-weight:500;">
+📍 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="18" style="vertical-align:middle;"/> &nbsp;&nbsp; 
+<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fa.svg" width="18" style="vertical-align:middle;"/> 
+</span>
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
