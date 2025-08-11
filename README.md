@@ -14,9 +14,9 @@ Currently growing my skills in ML, NLP, and Data Visualization
 
 ## Current Projects
 
-1. **Video Sports Analytics** - Computer vision system for automated player tracking and performance analysis
-2. **Personal Portfolio Website** - Modern responsive portfolio built with React, Vite and vanilla JavaScript 
-3. **Built Different** - Ranking the world's toughest sports through data-driven analysis  
+1. **[Video Sports Analytics](https://github.com/Hansk04/video-sports-analytics)** - Computer vision system for automated player tracking and performance analysis
+2. **[Personal Portfolio Website](https://github.com/Hansk04/portfolio-website)** - Modern responsive portfolio built with React, Vite and vanilla JavaScript 
+3. **[Built Different](https://github.com/Hansk04/Data-science-portfolio/blob/main/Sports_Toughness_EDA.ipynb)** - Ranking the world's toughest sports through data-driven analysis  
 
 ## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansk04&show_icons=true&theme=chartreuse-dark)](https://github.com/Hansk04)
